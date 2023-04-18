@@ -1,0 +1,2 @@
+# vue_form_generate_static
+vue_form_generate_static
